@@ -34,7 +34,8 @@ obj.add(1,2,3)       #If we call this method directly then no error will occur
 obj = Arithematic(2,2)                #This will implement the code
 '''
 
-# Method overriding concept
+
+# Constructor overriding concept
 class Father:
     def bike(self):
         print("BMW")
